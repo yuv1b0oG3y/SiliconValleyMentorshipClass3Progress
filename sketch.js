@@ -1,5 +1,5 @@
 
-var gameState = "play";
+var gameState = "wait";
 var play,about,how,next,home
 var waitimg, backgroundIMG, backgroundIMG2
 var milleniumFalcon, milleniumFalconTwo, imperialTroop, laser, tatooine, rock;
